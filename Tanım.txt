@@ -1,0 +1,7 @@
+Taným : 
+
+Bu programda online bulut hizmeti ile kuullanýcýlarýn dosyalarýný internette depolamasý amaçlanmaktadýr.
+
+Kullanýlanlar : 
+
+Client : C# + HTML5 + JQUERY + Elfinder(Jquery Dosya Listeleme Framework) + PHP
